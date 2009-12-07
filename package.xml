@@ -1,6 +1,7 @@
 <package>
   <name>Gravatar</name>
   <namespace>Gravatar</namespace>
+  <url>git://github.com/NicolasPetton/gravatar.git</url>
   <prereq>Digest</prereq>
   <prereq>NetClients</prereq>
   <filein>Gravatar.st</filein>
