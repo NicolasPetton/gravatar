@@ -1,0 +1,8 @@
+<package>
+  <name>Gravatar</name>
+  <namespace>Gravatar</namespace>
+  <prereq>Digest</prereq>
+  <prereq>NetClients</prereq>
+  <filein>Gravatar.st</filein>
+  <file>Gravatar.st</file>
+</package>
